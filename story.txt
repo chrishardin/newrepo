@@ -1,5 +1,9 @@
 A long time ago, in a galaxy far, far away
 test 1
 
+<<<<<<< HEAD
 this text is pointless, but I get an A for free LOL
 *adding master*
+=======
+this text is pointless, but I get an A for free LOL *edit was here*
+>>>>>>> second
